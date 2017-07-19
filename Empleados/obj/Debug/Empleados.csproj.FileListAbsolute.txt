@@ -1,0 +1,28 @@
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados_MarkupCompile.cache
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados_MarkupCompile.lref
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.g.resources
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.Cache
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\Natalia\Desktop\Empleados\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe.config
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.exe
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.pdb
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\bin\Debug\Empleados.exe
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\bin\Debug\Empleados.pdb
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.csprojResolveAssemblyReference.cache
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\MainWindow.g.cs
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\App.g.cs
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados_MarkupCompile.cache
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados_MarkupCompile.lref
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\MainWindow.baml
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.g.resources
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.Properties.Resources.resources
+C:\Users\Natalia\Desktop\Materia Esquivel\Empleados\Empleados\Empleados\obj\Debug\Empleados.csproj.GenerateResource.Cache
